@@ -5,12 +5,18 @@
 # Large-Scale Computing for the Social Sciences
 ### Spring 2023 - MACS 30123/MAPS 30123/PLSC 30123
 
-| Instructor Information       | **TA Information**      | **TA Information**     | **TA Information** | **Course Information**     |
-| :-------------               | :-------------          | :-------------         | :------------      | :------------              |
-| Jon Clindaniel               | Lynette Dang            | Thiyaghessan Poongundranar | Baotong Zhang       | Location: 1155 E. 60th Street, Rm. 140C |
+| Instructor Information       | **TA Information**      | **TA Information**     | **TA Information** |
+| :-------------               | :-------------          | :-------------         | :------------      |
+| Jon Clindaniel               | Lynette Dang            | Thiyaghessan Poongundranar | Baotong Zhang       |
 | 1155 E. 60th Street, Rm. 215 | TBD | TBD | TBD| Monday/Wednesday       |
-| jclindaniel@uchicago.edu     | lidang@uchicago.edu | thiyaghessan@uchicago.edu | baotongzh@uchicago.edu | 4:30-5:50 PM (CT) |
-| **Office Hours:** [Schedule an Appointment][jon_oh]<br/><br/> Drop-In (No appointment needed): Friday 1:00-3:00pm (starting April 7th) | TBD | TBD | TBD | [Canvas Course Site][canvas_url] |
+| jclindaniel@uchicago.edu     | lidang@uchicago.edu | thiyaghessan@uchicago.edu | baotongzh@uchicago.edu |
+| **Office Hours:** [Schedule an Appointment][jon_oh]<br/><br/> Drop-In (No appointment needed): Friday 1:00-3:00pm (starting April 7th) | TBD | TBD | TBD |
+
+## Course Information
+
+* Location: 1155 E. 60th Street, Rm. 140C
+* Time: 4:30-5:50 PM (CT)
+* [Canvas Course Site][canvas_url]
 
 ## Course Description
 Computational social scientists increasingly need to grapple with data that is too big and code that is too resource intensive to run on a local machine. Using Python, students in this course will learn how to effectively scale their computational methods beyond their local machines -- optimizing and parallelizing their code across clusters of CPUs and GPUs, both on-premises and in the cloud. The focus of the course will be on social scientific applications, such as: accelerating social simulations by several orders of magnitude, processing large amounts of social media data in real-time, and training machine learning models on economic datasets that are too large for an average laptop to handle.
