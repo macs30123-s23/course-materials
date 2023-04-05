@@ -8,9 +8,9 @@
 | Instructor Information       | **TA Information**      | **TA Information**     | **TA Information** |
 | :-------------               | :-------------          | :-------------         | :------------      |
 | Jon Clindaniel               | Lynette Dang            | Thiyaghessan Poongundranar | Baotong Zhang       |
-| 1155 E. 60th Street, Rm. 215 | 1155 E. 60th Street, Rm. 222  or [zoom](https://uchicago.zoom.us/j/6711693191?pwd=T1JHeUZ2dkhSSEN6TVZtTlQzeUJTdz09)| TBD | TBD| Monday/Wednesday       |
+| 1155 E. 60th Street, Rm. 215 | 1155 E. 60th Street, Rm. 222  or [Zoom](https://uchicago.zoom.us/j/6711693191?pwd=T1JHeUZ2dkhSSEN6TVZtTlQzeUJTdz09)| 1155 E. 60th Street, Rm. 222 | 1155 E. 60th Street, Rm. 222 | Monday/Wednesday       |
 | jclindaniel@uchicago.edu     | lidang@uchicago.edu | thiyaghessan@uchicago.edu | baotongzh@uchicago.edu |
-| **Office Hours:** [Schedule an Appointment][jon_oh]<br/><br/> Drop-In (No appointment needed): Friday 1:00-3:00pm (starting April 7th) | **Office Hours:** [Schedule an Appointment](https://calendly.com/lynettedang/30min?month=2023-04) Tuesday 11:20am-1:20pm | TBD | TBD 
+| **Office Hours:** [Schedule an Appointment][jon_oh] Tuesday 11:00am-1:00pm<br/><br/> Drop-In (No appointment needed): Friday 1:00-3:00pm | **Office Hours:** [Schedule an Appointment](https://calendly.com/lynettedang/30min?month=2023-04) Tuesday 11:20am-1:20pm | **Office Hours:** [Schedule an Appointment](https://appoint.ly/s/thiyaghessan/introduction) Wednesday 10:30am-12:30pm | **Office Hours:** [Schedule an Appointment](https://appoint.ly/s/baotongzh/Office_Hours) Monday 2:00-4:00pm | 
 
 ## Course Information
 
