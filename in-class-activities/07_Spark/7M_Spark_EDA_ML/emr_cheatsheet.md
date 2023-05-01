@@ -7,7 +7,7 @@ Create an EMR cluster with Spark installed on it, using the following AWS CLI co
 ```bash
 aws emr create-cluster \
     --name "Spark Cluster" \
-    --release-label "emr-6.10.0" \
+    --release-label "emr-6.2.0" \
     --applications Name=Hadoop Name=Hive Name=JupyterEnterpriseGateway Name=JupyterHub Name=Livy Name=Pig Name=Spark Name=Tez \
     --instance-type m5.xlarge \
     --instance-count 3 \
