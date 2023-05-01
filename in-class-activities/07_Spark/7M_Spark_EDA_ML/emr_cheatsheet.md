@@ -46,4 +46,4 @@ ssh -i ~/labsuser.pem -NL 9443:localhost:9443 hadoop@ec2-23-22-235-142.compute-1
 ```
 
 Just be sure not to close the terminal window that you run this command on as it will stop port 9443 from being forwarded to your local machine (and you will not be able to access JupyterHub without running the command again). 
-After running the above command, navigate to `https://localhost:9443` in your browser (and navigate through all of the security warnings). You should now see a JupyterHub login window. The username is "Jovyan" and the password is "jupyter" -- the defaults for JupyterHub. You should now be able to write PySpark code in Jupyter Notebooks if you select the PySpark kernel for execution.
+After running the above command, navigate to `https://localhost:9443` in your browser (and navigate through all of the security warnings). You should now see a JupyterHub login window. The username is "jovyan" and the password is "jupyter" -- the defaults for JupyterHub. You should now be able to write PySpark code in Jupyter Notebooks if you select the PySpark kernel for execution.
